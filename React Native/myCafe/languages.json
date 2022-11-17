@@ -1,0 +1,264 @@
+{
+    "languages": {
+        "eng": {
+            "Home": {
+                "txtHeader": "My Cafe Example",
+                "txtEvents": "Events",
+                "txtMenus": "Menus",
+                "txtDrinks": "Beverages",
+                "txtEats": "Foods",
+                "txtAbout": "About Us",
+                "txtContact": "Contact"
+            },
+            "Events": {
+                "txtTitle1": "Live Music",
+                "txtTitle2": "Karaoke Day",
+                "txtTitle3": "Plenty of Cinema",
+                "txtTitle4": "Birthday",
+                "txtTitle5": "Business Meeting",
+                "txtExplanation1": "Have fun with your friends with live music.",
+                "txtExplanation2": "On the karaoke day, you can sing the songs you want with your family and friends.",
+                "txtExplanation3": "It plays different movies from the opening to the closing on the cinema day.",
+                "txtExplanation4": "We do not leave you alone on your birthday, we celebrate this special day with you.",
+                "txtExplanation5": "We are waiting for you here for your private business meetings."
+            },
+            "Menus": {
+                "txtMenu1": "Breakfast Menu",
+                "txtExplanation1": "Tea + Breakfast",
+                "txtMenu2": "Lunch Menu",
+                "txtExplanation2": "Cola + Hamburger",
+                "txtMenu3": "Snack Menu",
+                "txtExplanation3": "Redbull + French fries"
+            },
+            "Drinks": {
+                "txtTea": "Tea",
+                "txtCaffe": "Coffee",
+                "txtLindenTea": "Linden Tea",
+                "txtHot": "Hot drink.",
+                "txtCold": "Cold drink.",
+                "txtEnergy": "Energy drink.",
+                "txtHealty": "Healthy drink."
+            },
+            "Eats": {
+                "txtBreakfast": "Breakfast",
+                "txtHamburger": "Hamburger",
+                "txtToast": "Toast",
+                "txtSandwich": "Sandwich",
+                "txtFriedPotatoes": "Fried Potatoes",
+                "txtCookie": "Cookie",
+                "txtBiscuit": "Biscuit",
+                "txtWafer": "Wafer",
+                "txtHearty": "Hearty food.",
+                "txtSnack": "Snack food.",
+                "txtDessert": "Dessert food."
+            },
+            "About": {
+                "txtWhoAreWe": "Various events in our cafe are prepared for you in the best way possible. We make the best food and drinks for you. We also have special menus. To contact us, you can call us, reach us from our social media accounts or send an e-mail!"
+            },
+            "Contact": {
+                "txtSocial": "Social Media Accounts",
+                "txtPhoneNumber": "Phone Number"
+            },
+            "Settings": {
+                "txtSettings": "Settings",
+                "txtLanguage": "Current language",
+                "txtSelectLanguage": "Select Language"
+            }
+        },
+        "deu": {
+            "Home": {
+                "txtHeader": "Mein Café-Beispiel",
+                "txtEvents": "Veranstaltungen",
+                "txtMenus": "Menüs",
+                "txtDrinks": "Getränke",
+                "txtEats": "Lebensmittel",
+                "txtAbout": "Über Uns",
+                "txtContact": "Kontakt"
+            },
+            "Events": {
+                "txtTitle1": "Live Musik",
+                "txtTitle2": "Karaoke-Tag",
+                "txtTitle3": "Viel Kino",
+                "txtTitle4": "Geburtstag",
+                "txtTitle5": "Geschäftstreffen",
+                "txtExplanation1": "Haben Sie Spaß mit Ihren Freunden bei Live-Musik.",
+                "txtExplanation2": "Am Karaoke-Tag können Sie mit Ihrer Familie und Ihren Freunden die gewünschten Lieder singen.",
+                "txtExplanation3": "Es spielt verschiedene Filme von der Eröffnung bis zur Schließung am Kinotag.",
+                "txtExplanation4": "Wir lassen Sie an Ihrem Geburtstag nicht allein, wir feiern diesen besonderen Tag mit Ihnen.",
+                "txtExplanation5": "Wir erwarten Sie hier für Ihre privaten Geschäftstreffen."
+            },
+            "Menus": {
+                "txtMenu1": "Frühstücksmenü",
+                "txtExplanation1": "Tee + Frühstück",
+                "txtMenu2": "Mittagsmenü",
+                "txtExplanation2": "Cola + Hamburger",
+                "txtMenu3": "Mittagsmenü",
+                "txtExplanation3": "Redbull + Pommes"
+            },
+            "Drinks": {
+                "txtTea": "Tee",
+                "txtCaffe": "Kaffee",
+                "txtLindenTea": "Linden Tee",
+                "txtHot": "Heisses Getränk.",
+                "txtCold": "Kaltes Getränk.",
+                "txtEnergy": "Energiegetränk.",
+                "txtHealty": "Gesundes Getränk."
+            },
+            "Eats": {
+                "txtBreakfast": "Frühstück",
+                "txtHamburger": "Hamburger",
+                "txtToast": "Toast",
+                "txtSandwich": "Sandwich",
+                "txtFriedPotatoes": "Gebratene Kartoffeln",
+                "txtCookie": "Plätzchen",
+                "txtBiscuit": "Keks",
+                "txtWafer": "Waffel",
+                "txtHearty": "Herzhaftes Essen.",
+                "txtSnack": "Knabberzeug.",
+                "txtDessert": "Nachtisch essen."
+            },
+            "About": {
+                "txtWhoAreWe": "Diverse Veranstaltungen in unserem Café werden optimal auf Sie vorbereitet. Wir machen die besten Speisen und Getränke für Sie. Wir haben auch spezielle Menüs. Um uns zu kontaktieren, können Sie uns anrufen, uns über unsere Social-Media-Konten erreichen oder eine E-Mail senden!"
+            },
+            "Contact": {
+                "txtSocial": "Social-Media-Konten",
+                "txtPhoneNumber": "Telefonnummer"
+            },
+            "Settings": {
+                "txtSettings": "Einstellungen",
+                "txtLanguage": "Aktuelle Sprache",
+                "txtSelectLanguage": "Sprache auswählen"
+            }
+        },
+        "fra": {
+            "Home": {
+                "txtHeader": "Exemple de mon café",
+                "txtEvents": "Événements",
+                "txtMenus": "Menus",
+                "txtDrinks": "Breuvages",
+                "txtEats": "Nourriture",
+                "txtAbout": "À propos de nous",
+                "txtContact": "Contact"
+            },
+            "Events": {
+                "txtTitle1": "Musique live",
+                "txtTitle2": "Journée Karaoké",
+                "txtTitle3": "Beaucoup de cinéma",
+                "txtTitle4": "Date d'anniversaire",
+                "txtTitle5": "Réunion d'affaires",
+                "txtExplanation1": "Amusez-vous avec vos amis avec de la musique live.",
+                "txtExplanation2": "Le jour du karaoké, vous pouvez chanter les chansons que vous voulez avec votre famille et vos amis.",
+                "txtExplanation3": "Il diffuse différents films de l'ouverture à la fermeture le jour du cinéma.",
+                "txtExplanation4": "Nous ne vous laissons pas seul le jour de votre anniversaire, nous célébrons cette journée spéciale avec vous.",
+                "txtExplanation5": "Nous vous attendons ici pour vos rendez-vous d'affaires privés."
+            },
+            "Menus": {
+                "txtMenu1": "Menu du petit déjeuner",
+                "txtExplanation1": "Thé + Petit Déjeuner",
+                "txtMenu2": "Menu du déjeuner",
+                "txtExplanation2": "Cola + Hamburger",
+                "txtMenu3": "Menu du déjeuner",
+                "txtExplanation3": "Redbull + Frites"
+            },
+            "Drinks": {
+                "txtTea": "Thé",
+                "txtCaffe": "Café",
+                "txtLindenTea": "Thé au tilleul",
+                "txtHot": "Boisson chaude.",
+                "txtCold": "Boisson froide.",
+                "txtEnergy": "Boisson énergisante.",
+                "txtHealty": "Boisson saine."
+            },
+            "Eats": {
+                "txtBreakfast": "Petit-déjeuner",
+                "txtHamburger": "Hamburger",
+                "txtToast": "Pain grillé",
+                "txtSandwich": "Sandwich",
+                "txtFriedPotatoes": "Patates frites",
+                "txtCookie": "La gâteau",
+                "txtBiscuit": "Biscuit",
+                "txtWafer": "Tranche",
+                "txtHearty": "Nourriture copieuse.",
+                "txtSnack": "Snack.",
+                "txtDessert": "Nourriture dessert."
+            },
+            "About": {
+                "txtWhoAreWe": "Divers événements dans notre café sont préparés pour vous de la meilleure façon possible. Nous préparons pour vous les meilleurs plats et boissons. Nous avons également des menus spéciaux. Pour nous contacter, vous pouvez nous appeler, nous joindre depuis nos comptes de réseaux sociaux ou envoyer un e-mail !"
+            },
+            "Contact": {
+                "txtSocial": "Comptes de médias sociaux",
+                "txtPhoneNumber": "Numéro de téléphone"
+            },
+            "Settings": {
+                "txtSettings": "Réglages",
+                "txtLanguage": "Langue courante",
+                "txtSelectLanguage": "Choisir la langue"
+            }
+        },
+        "tur": {
+            "Home": {
+                "txtHeader": "Kafem Örneği",
+                "txtEvents": "Etkinlikler",
+                "txtMenus": "Menüler",
+                "txtDrinks": "İçecekler",
+                "txtEats": "Yiyecekler",
+                "txtAbout": "Hakkımızda",
+                "txtContact": "İletişim"
+            },
+            "Events": {
+                "txtTitle1": "Canlı Müzik",
+                "txtTitle2": "Karaoke Günü",
+                "txtTitle3": "Bol Bol Sinema",
+                "txtTitle4": "Doğum Günü",
+                "txtTitle5": "İş Toplantısı",
+                "txtExplanation1": "Canlı müzik eşliğinde doya doya arkadaşlarınız ile eğlenin.",
+                "txtExplanation2": "Karaoke gününde ailenizle, arkadaşlarınızla istediğiniz şarkıları söyleyebilirsiniz.",
+                "txtExplanation3": "Sinema gününde açılıştan kapanışa kadar farklı farklı filmler oynar.",
+                "txtExplanation4": "Doğum gününüzde sizi yalnız bırakmıyor sizinle beraber bu özel gününüzü kutluyoruz.",
+                "txtExplanation5": "Özel iş görüşmeleriniz için sizleri buraya bekliyoruz."
+            },
+            "Menus": {
+                "txtMenu1": "Kahvaltı Menü",
+                "txtExplanation1": "Çay + Kahvaltı.",
+                "txtMenu2": "Öğle Yemeği Menü",
+                "txtExplanation2": "Cola + Hamburger",
+                "txtMenu3": "Atıştırmalık Menü",
+                "txtExplanation3": "Redbull + Patates kızartması"
+            },
+            "Drinks": {
+                "txtTea": "Çay",
+                "txtCaffe": "Kahve",
+                "txtLindenTea": "Ihlamur Çayı",
+                "txtHot": "Sıcak içecek.",
+                "txtCold": "Soğuk içecek.",
+                "txtEnergy": "Enerji içeceği.",
+                "txtHealty": "Sağlıklı içecek."
+            },
+            "Eats": {
+                "txtBreakfast": "Kahvaltı",
+                "txtHamburger": "Hamburger",
+                "txtToast": "Tost",
+                "txtSandwich": "Sandviç",
+                "txtFriedPotatoes": "Patates Kızartması",
+                "txtCookie": "Kurabiye",
+                "txtBiscuit": "Bisküvi",
+                "txtWafer": "Gofret",
+                "txtHearty": "Doyurucu yiyecek.",
+                "txtSnack": "Atıştırmalık yiyecek.",
+                "txtDessert": "Tatlı yiyecek."
+            },
+            "About": {
+                "txtWhoAreWe": "Kafemizde çeşitli etkinliklerimiz sizler için en iyi şekilde hazırlanıyor. Sizlere en iyi yiyecek ve içecekleri yapıyoruz. Özel olarak da menülerimiz var. Bizimle iletişime geçmek için bizi arayabilir, sosyal medya hesaplarımızdan ulaşabilir ve ya mail atabilirsiniz!"
+            },
+            "Contact": {
+                "txtSocial": "Sosyal Medya Hesapları",
+                "txtPhoneNumber": "Telefon Numarası"
+            },
+            "Settings": {
+                "txtSettings": "Ayarlar",
+                "txtLanguage": "Mevcut dil",
+                "txtSelectLanguage": "Dil Seçin"
+            }
+        }
+    }
+}
